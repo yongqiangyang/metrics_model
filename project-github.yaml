@@ -1,0 +1,27 @@
+url:
+  "http://localhost:9200"
+
+params:
+  {
+      'git_index': 'git_chaoss_enriched',
+      'git_aoc_index': 'git-aoc_chaoss_enriched',
+      'git_onion_index':'git-onion_enriched',
+      'cocom_index':'cocom_chaoss_enrich',
+      'colic_index':'colic_chaoss_enrich',
+      'issue_index': 'github_issues_chaoss_enriched',
+      'pr_index':'github_pulls_chaoss_enriched',
+      'repo_index':'github_repo_enriched',
+      'issue_comments_index':'github2-issues_enriched',
+      'pr_comments_index':'github2-pull_enriched',
+      'json_file': '/home/ruoxuan/metrics-model/project-github.json',
+      'git_branch': None,
+      'from_date': '2023-05-01',
+      'end_date': '2023-06-30',
+      'out_index': 'health_metric_model',
+      'risk_index': 'risk_model',
+      'community': 'github',
+      'level': 'repo',
+      'company': 'github',      
+      'identities_config_file': '/home/ruoxuan/metrics-model/identities.yml',
+      'organizations_config_file': '/home/ruoxuan/metrics-model/organizations.json'
+  }

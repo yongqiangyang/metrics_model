@@ -1,0 +1,13 @@
+{
+  "openeuler": {
+          "gitee-software-artifact": [
+            "https://gitee.com/openeuler/iSulad",
+            "https://gitee.com/openeuler/A-Tune",
+            "https://gitee.com/openeuler/stratovirt",
+            "https://gitee.com/openeuler/bishengjdk-8",
+            "https://gitee.com/openeuler/kernel"
+          ],
+          "gitee-governance": [
+          ]
+  }
+}

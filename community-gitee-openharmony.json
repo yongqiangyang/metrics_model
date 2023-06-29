@@ -1,0 +1,13 @@
+{
+  "openharmony": {
+          "gitee-software-artifact": [
+            "https://gitee.com/openharmony/arkui_ace_engine",
+            "https://gitee.com/openharmony/kernel_liteos_a",
+            "https://gitee.com/openharmony/systemabilitymgr_samgr_lite",
+            "https://gitee.com/openharmony/communication_dsoftbus",
+            "https://gitee.com/openharmony/community"
+          ],
+          "gitee-governance": [
+          ]
+  }
+}
